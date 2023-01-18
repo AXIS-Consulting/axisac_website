@@ -1,0 +1,277 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #282828;
+    color: #f0f0f0;
+    padding: 0 0 50px;
+    margin: 0;
+    line-height: 1.6;
+    font-family: sans-serif;
+    font-size: 16px;
+    position: relative;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    padding: 0;
+    margin: 0;
+    line-height: 1.2;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+
+h3 {
+    font-size: 1.75rem;
+}
+
+h4 {
+    font-size: 1.25rem;
+}
+
+h5 {
+    font-size: 1.15rem;
+}
+
+h6 {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+p {
+    font-size: 1.15rem;
+    color: #909090;
+    margin-bottom: 1rem;
+}
+
+a, a:link, a:visited, a:active {
+    text-decoration: none;
+    color: #ff9900;
+    display: inline-block;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.button, .button:link, .button:visited, .button:active {
+    padding: 1rem 2rem;
+    border: 2px solid #ff9900;
+    background-color: rgba(40, 40, 40, .75);
+    text-decoration: none !important;
+    border-radius: 1rem;
+    font-size: 1.2rem;
+    text-shadow: 0px 1px rgba(40, 40, 40, .75);
+}
+
+.button:hover {
+    background-color: #ff9900;
+    color: #f0f0f0;
+}
+
+#animatedText {
+    padding: 1rem 0;
+    font-size: 3.5rem;
+    color: #ff9900;
+    font-weight: bold;
+}
+
+section {
+    padding: 10rem 0;
+    position: relative;
+}
+
+section:nth-child(odd) {
+    background-color: #383838;
+}
+
+footer {
+    padding: 1rem;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+#hero {
+    position: relative;
+    background: url("/images/bg-hero-nyc.jpg") transparent bottom center no-repeat;
+    background-size: cover;
+    height: 100vh;
+    padding: 0;
+    border-top: none;
+    text-align: center;
+
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+#hero p {
+    margin-bottom: 2.5rem;
+    color: #f0f0f0;
+}
+
+.about-container {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 2rem;
+
+    padding: 0 1rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.about-container h2 {
+    text-align: left;
+}
+
+.stats > div {
+    padding: 0 0 1rem;
+    border-bottom: 1px solid #282828;
+    margin-bottom: 1rem;
+}
+
+/*.services-container {*/
+/*    display: grid;*/
+/*    grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));*/
+/*    gap: 2rem;*/
+
+/*    padding: 0 1rem;*/
+/*    max-width: 1200px;*/
+/*    margin: 0 auto;*/
+/*    text-align: left;*/
+/*}*/
+
+.resume-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
+    gap: 2rem;
+
+    padding: 0 1rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.organization, .badge {
+    color: #ff9900;
+}
+
+.badge {
+    font-size: .8rem;
+}
+
+.resume-description {
+    padding-top: 1.5rem;
+}
+
+.portfolio-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    gap: 2rem;
+
+    padding: 0 1rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.portfolio-container h3 {
+    padding-bottom: .5rem;
+}
+
+.highlight {
+    color: #ff9900;
+}
+
+.section-title {
+    padding-bottom: 10rem;
+}
+
+.section-title span.underline {
+    border-bottom: 2px solid #ff9900;
+    width: 5rem;
+    display: block;
+    margin: 0 auto;
+    padding-top: .5rem;
+}
+
+.skills-list {
+    max-width: 15%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+.skills-list ul {
+    padding: 0 1rem;
+}
+
+.skills-list ul li {
+    padding: 1rem 0;
+    border-bottom: 1px solid #383838;
+}
+
+nav {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #222;
+    height: 50px;
+}
+
+nav div {
+    justify-self: center;
+    align-self: center;
+    padding: 0 .25rem;
+    text-align: center;
+}
+
+nav i {
+    display: block;
+}
+
+nav span {
+    display: block;
+}
+
+a.nav-item, a.nav-item:link, a.nav-item:visited, a.nav-item:active {
+    color: #f0f0f0;
+}
+
+a.nav-item:hover {
+    color: #ff9900;
+    text-decoration: none;
+}
+
+@media only screen and (max-width: 767px) {
+    /* For mobile phones: */
+    #animatedText {
+        font-size: 2.25rem;
+    }
+
+    .skills-list {
+        max-width: 75%;
+    }
+
+    .about-container {
+        grid-template-columns: 1fr;
+    }
+
+    .about-container h2 {
+        font-size: 1.75rem;
+    }
+}
