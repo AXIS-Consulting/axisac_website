@@ -132,7 +132,7 @@
             <h2>I'm <span class="highlight">Aaron Curtis,</span> a Web Developer</h2>
             <br>
             <p>I'm a self-taught developer. For a long time I was working in the food industry while in college. I was unhappy where my life was heading, and wanted to do something that was long-lasting, and had impact. That is when I discovered Programming. </p>
-            <p>I'm still a Junior Developer, looking for opportunities to keep learning, and delve into the professional space of programming and development.</p>
+            <p>I'm a Junior Developer, looking for opportunities to keep learning, and delve into the professional space of programming and development.</p>
         </div>
 
         <div class="stats">
