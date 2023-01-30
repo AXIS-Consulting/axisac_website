@@ -58,38 +58,38 @@
 
 </section>
 
-<!--<section id="portfolio">-->
-<!---->
-<!--    <div class="section-title">-->
-<!--        <h2>Portfolio</h2>-->
-<!--        <span class="underline"></span>-->
-<!--    </div>-->
-<!---->
-<!--    <div class="portfolio-container">-->
-<!---->
-<!--        <div>-->
-<!--            <h3>Project</h3>-->
-<!--            <a href="#">Link to project</a>-->
-<!--        </div>-->
-<!---->
-<!--        <div>-->
-<!--            <h3>Project</h3>-->
-<!--            <a href="#">Link to project</a>-->
-<!--        </div>-->
-<!---->
-<!--        <div>-->
-<!--            <h3>Project</h3>-->
-<!--            <a href="#">Link to project</a>-->
-<!--        </div>-->
-<!---->
-<!--        <div>-->
-<!--            <h3>Project</h3>-->
-<!--            <a href="#">Link to project</a>-->
-<!--        </div>-->
-<!---->
-<!--    </div>-->
-<!---->
-<!--</section>-->
+<section id="portfolio">
+
+    <div class="section-title">
+        <h2>Portfolio</h2>
+        <span class="underline"></span>
+    </div>
+
+    <div class="portfolio-container">
+
+        <div>
+            <h3>Project</h3>
+            <a href="#">Link to project</a>
+        </div>
+
+        <div>
+            <h3>Project</h3>
+            <a href="#">Link to project</a>
+        </div>
+
+        <div>
+            <h3>Project</h3>
+            <a href="#">Link to project</a>
+        </div>
+
+        <div>
+            <h3>Project</h3>
+            <a href="#">Link to project</a>
+        </div>
+
+    </div>
+
+</section>
 
 <section id="skills">
 
