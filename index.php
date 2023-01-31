@@ -5,7 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Available For Hire</title>
+    <title>Aaron Curtis</title>
     <link rel="stylesheet" href="/css/reset.css">
     <link rel="stylesheet" href="/css/all.min.css">
     <link rel="stylesheet" href="/css/style.css">
@@ -68,23 +68,23 @@
     <div class="portfolio-container">
 
         <div>
-            <h3>Project</h3>
-            <a href="#">Link to project</a>
+            <h3>PHP App (No Framework)</h3>
+            <a href="#" target="_blank">Link to project <i class="fa-regular fa-arrow-up-right-from-square"></i></a>
         </div>
 
         <div>
             <h3>Project</h3>
-            <a href="#">Link to project</a>
+            <a href="#" target="_blank">Link to project <i class="fa-regular fa-arrow-up-right-from-square"></i></a>
         </div>
 
         <div>
             <h3>Project</h3>
-            <a href="#">Link to project</a>
+            <a href="#" target="_blank">Link to project <i class="fa-regular fa-arrow-up-right-from-square"></i></a>
         </div>
 
         <div>
             <h3>Project</h3>
-            <a href="#">Link to project</a>
+            <a href="#" target="_blank">Link to project <i class="fa-regular fa-arrow-up-right-from-square"></i></a>
         </div>
 
     </div>
@@ -162,7 +162,7 @@
 
 <script>
     let typed = new Typed(".auto-type", {
-        strings: ["I'm a Junior Developer", "Looking for Opportunities"],
+        strings: ["I'm a Junior Developer.", "Available for hire."],
         typeSpeed: 100,
         backSpeed: 50,
         loop: true
