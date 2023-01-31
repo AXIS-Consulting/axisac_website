@@ -69,22 +69,22 @@
 
         <div>
             <h3>PHP App (No Framework)</h3>
-            <a href="#" target="_blank">Link to project <i class="fa-regular fa-arrow-up-right-from-square"></i></a>
+            <a href="/projects/php-app-no-framework" target="_blank">Link to project <i class="fa-regular fa-arrow-up-right-from-square"></i></a>
         </div>
 
         <div>
             <h3>Project</h3>
-            <a href="#" target="_blank">Link to project <i class="fa-regular fa-arrow-up-right-from-square"></i></a>
+            <a href="/projects" target="_blank">Link to project <i class="fa-regular fa-arrow-up-right-from-square"></i></a>
         </div>
 
         <div>
             <h3>Project</h3>
-            <a href="#" target="_blank">Link to project <i class="fa-regular fa-arrow-up-right-from-square"></i></a>
+            <a href="/projects" target="_blank">Link to project <i class="fa-regular fa-arrow-up-right-from-square"></i></a>
         </div>
 
         <div>
             <h3>Project</h3>
-            <a href="#" target="_blank">Link to project <i class="fa-regular fa-arrow-up-right-from-square"></i></a>
+            <a href="/projects" target="_blank">Link to project <i class="fa-regular fa-arrow-up-right-from-square"></i></a>
         </div>
 
     </div>
