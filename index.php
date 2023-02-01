@@ -23,20 +23,20 @@
 
 </section>
 
-<section id="resume">
+<section id="experience">
 
     <div class="section-title">
-        <h2>Resume</h2>
+        <h2>Experience</h2>
         <span class="underline"></span>
     </div>
 
-    <div class="resume-container">
+    <div class="experience-container">
 
         <div>
             <div class="badge">2022 - Present</div>
             <h3 class="item-title">Jr. Developer</h3>
             <h4 class="organization">VCG Network</h4>
-            <p class="resume-description">Apprenticeship under Senior Architect/Lead Developer (20+ years experience), On-the-job training.
+            <p class="experience-description">Apprenticeship under Senior Architect/Lead Developer (20+ years experience), On-the-job training.
                 Learning the art of programming and various languages and methodologies.</p>
         </div>
 
@@ -44,14 +44,14 @@
             <div class="badge">2021 - 2022</div>
             <h3 class="item-title">Shipping Associate</h3>
             <h4 class="organization">The UPS Store</h4>
-            <p class="resume-description">Managed Inventory, Customer Service, Followed strict protocols for shipping and handling.</p>
+            <p class="experience-description">Managed Inventory, Customer Service, Followed strict protocols for shipping and handling.</p>
         </div>
 
         <div>
             <div class="badge">2019 - 2021</div>
             <h3 class="item-title">Shift Manager</h3>
             <h4 class="organization">Jersey Mike's Subs</h4>
-            <p class="resume-description">Managed Inventory, Customer Service, Handled money and the deposit, delegated tasks to employees, Management.</p>
+            <p class="experience-description">Managed Inventory, Customer Service, Handled money and the deposit, delegated tasks to employees, Management.</p>
         </div>
 
     </div>
@@ -159,7 +159,7 @@
 
 <nav>
     <div><a class="nav-item" href="/"><i class="fa-solid fa-house-chimney"></i><span>Home</span></a></div>
-    <div><a class="nav-item" href="#resume"><i class="fa-solid fa-scroll"></i><span>Resume</span></a></div>
+    <div><a class="nav-item" href="#experience"><i class="fa-solid fa-scroll"></i><span>Experience</span></a></div>
     <div><a class="nav-item" href="#portfolio"><i class="fa-solid fa-toolbox"></i><span>Portfolio</span></a></div>
     <div><a class="nav-item" href="#skills"><i class="fa-solid fa-laptop-code"></i><span>Skills</span></a></div>
     <div><a class="nav-item" href="#about"><i class="fa-solid fa-id-card"></i><span>About</span></a></div>

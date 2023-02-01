@@ -152,7 +152,7 @@ h2 {
 /*    text-align: left;*/
 /*}*/
 
-.resume-container {
+.experience-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
     gap: 2rem;
@@ -171,7 +171,7 @@ h2 {
     font-size: .8rem;
 }
 
-.resume-description {
+.experience-description {
     padding-top: 1.5rem;
 }
 
