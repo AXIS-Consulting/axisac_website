@@ -54,6 +54,7 @@ a, a:link, a:visited, a:active {
     text-decoration: none;
     color: #ff9900;
     display: inline-block;
+    /*padding-bottom: 1rem;*/
 }
 
 a:hover {
@@ -187,6 +188,10 @@ h2 {
 
 .portfolio-container h3 {
     padding-bottom: .5rem;
+}
+
+.portfolio-container > div {
+    padding-bottom: 3rem;
 }
 
 .highlight {

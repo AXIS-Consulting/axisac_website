@@ -68,24 +68,32 @@
     <div class="portfolio-container">
 
         <div>
-            <h3>PHP App (No Framework)</h3>
-            <a href="https://github.com/AXIS-Consulting/php-app-no-framework" target="_blank">Link to project <i class="fa-regular fa-arrow-up-right-from-square"></i></a>
+            <h3>axisac.com (Resume)</h3>
+            <a href="/">Link to project</a>
+            <br>
+            <p>The website you are on right now.</p>
         </div>
 
-<!--        <div>-->
-<!--            <h3>Project</h3>-->
-<!--            <a href="/projects" target="_blank">Link to project <i class="fa-regular fa-arrow-up-right-from-square"></i></a>-->
-<!--        </div>-->
-<!---->
-<!--        <div>-->
-<!--            <h3>Project</h3>-->
-<!--            <a href="/projects" target="_blank">Link to project <i class="fa-regular fa-arrow-up-right-from-square"></i></a>-->
-<!--        </div>-->
-<!---->
-<!--        <div>-->
-<!--            <h3>Project</h3>-->
-<!--            <a href="/projects" target="_blank">Link to project <i class="fa-regular fa-arrow-up-right-from-square"></i></a>-->
-<!--        </div>-->
+        <div>
+            <h3>Simple PHP Project</h3>
+            <a href="https://github.com/AXIS-Consulting/php-app-no-framework" target="_blank">Link to project <i class="fa-regular fa-arrow-up-right-from-square"></i></a>
+            <br>
+            <p>PHP project where no frameworks were used.</p>
+        </div>
+
+        <div>
+            <h3>JavaScript Math Game</h3>
+            <a href="https://github.com/AXIS-Consulting/Are-You-Smarter-Than-Ericson" target="_blank">Link to project <i class="fa-regular fa-arrow-up-right-from-square"></i></a>
+            <br>
+            <p>Simple JS math game (teasing a friend). First encounter with Javascript. </p>
+        </div>
+
+        <div>
+            <h3>HTML/CSS First Project</h3>
+            <a href="https://github.com/AXIS-Consulting/familytree" target="_blank">Link to project <i class="fa-regular fa-arrow-up-right-from-square"></i></a>
+            <br>
+            <p>My first coded project.</p>
+        </div>
 
     </div>
 
