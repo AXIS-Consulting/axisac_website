@@ -127,6 +127,8 @@
             <li>Excel</li>
             <li>Word</li>
             <li>Bootstrap</li>
+            <li>Wordpress Design/Development</li>
+            <li>Elementor Design/Development</li>
         </ul>
     </div>
 
